@@ -1,0 +1,56 @@
+body {
+    font-family: 'open Sans', sans-serif; /* Choisi "Open sans" comme police et si il ne trouve pas il utilise "sans-serif" */
+    background: url(../emmet/img/bkg.jpg);
+    background-repeat: repeat;
+}
+
+section {
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    background: #000;
+    color: #d2e7e2;
+    padding: 1vw;
+}
+
+nav {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+nav a {
+    font-size: 1.3em;
+    font-weight: 700;
+    padding: 1em 2em;
+    color: olivedrab;
+}
+
+h2 {
+    font-size: 1.5em;
+    text-align: center;
+    background: #000;
+    color: #d2e7e2;
+    padding: 1vw;
+}
+
+code {
+    font-size: 1.5vw;
+    font-style: italic;
+    background: lightgray;
+}
+
+div {
+    text-align: center;
+    background:linear-gradient(51deg, rgba(0,0,0,0.5522584033613445) 26%, rgba(30,81,217,0.3841911764705882) 30%, rgba(255,255,255,1) 51%, rgba(222,228,153,0.5634628851540616) 63%, rgba(206,214,102,0.4654236694677871) 69%, rgba(210,77,77,0.5466561624649859) 87%);;
+    color: #000;
+    padding: 1vw;
+}
+
+img {
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
